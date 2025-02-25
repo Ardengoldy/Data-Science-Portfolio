@@ -6,7 +6,7 @@ includes from basic - Advanced projects.
 
 ## 🔧 Skills & Tools Used
 - **Programming:** Python, SQL, R
-- **Libraries:** Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn
+- **Libraries:** Google Collab, Pandas, NumPy, Matplotlib
 - **Visualization:** Tableau, Power BI
 - **Machine Learning:** Regression, Clustering, Classification
 
