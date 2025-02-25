@@ -2,7 +2,7 @@
 
 Welcome to my **Data Science Portfolio**! 🚀  
 This repository showcases my journey in **Data Science, Data Analysis, and Machine Learning**.  
-includes from basic - Advanced projects.
+includes from Basic - Advanced projects.
 
 ## 🔧 Skills & Tools Used
 - **Programming:** Python, SQL, R
