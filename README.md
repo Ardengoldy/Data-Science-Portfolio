@@ -2,17 +2,7 @@
 
 Welcome to my **Data Science Portfolio**! 🚀  
 This repository showcases my journey in **Data Science, Data Analysis, and Machine Learning**.  
-
-## 📂 Project List
-### 🔹 1. [Project Name] (link ke folder proyek)
-   - **Objective**: Jelaskan tujuan proyek ini dalam 1-2 kalimat.
-   - **Tech Used**: Python, Pandas, Matplotlib, SQL, Power BI, dll.
-   - **Key Findings**: Ringkasan insight utama dari proyek ini.
-
-### 🔹 2. [Project Name] (link ke folder proyek)
-   - **Objective**: …
-   - **Tech Used**: …
-   - **Key Findings**: …
+includes from basic - Advanced projects.
 
 ## 🔧 Skills & Tools Used
 - **Programming:** Python, SQL, R
